@@ -6,7 +6,7 @@
 * 
 *  Name: __Yukti Manoj Mulani____________________ Student ID: __161393210____________ Date: ____6th August 2023____________
 *
-*  Vercel App (Deployed) Link: ______________https://assignment-kuhngithub.vercel.app/_______________________________________
+*  Vercel App (Deployed) Link: ______________https://next-js-a6.vercel.app/_______________________________________
 *
 ********************************************************************************/ 
 
