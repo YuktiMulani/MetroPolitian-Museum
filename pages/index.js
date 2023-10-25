@@ -1,16 +1,3 @@
-/*********************************************************************************
-*  WEB422 – Assignment 06
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
-*  assignment has been copied manually or electronically from any other source (including web sites) or 
-*  distributed to other students.
-* 
-*  Name: __Yukti Manoj Mulani____________________ Student ID: __156809212____________ Date: ____6th August 2023____________
-*
-*  Vercel App (Deployed) Link: ______________https://next-js-a6.vercel.app/_______________________________________
-*
-********************************************************************************/ 
-
-
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 

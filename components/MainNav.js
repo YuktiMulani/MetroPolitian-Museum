@@ -43,7 +43,7 @@ const MainNav = () => {
       className="fixed-top navbar-dark bg-primary"
     >
       <Container>
-        <Navbar.Brand>Yukti Manoj Mulani</Navbar.Brand>
+        <Navbar.Brand>Metropolitian Museum</Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
           onClick={() => setIsExpanded(!isExpanded)}
